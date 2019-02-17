@@ -1,0 +1,10 @@
+{
+  "name": "incognito",
+  "version": "1.0.0",
+  "description": "check incognito mode",
+  "main": "main.js",
+  "repository": "git@github.com:dva/incognito.git",
+  "author": "dva",
+  "license": "MIT",
+  "private": true
+}
