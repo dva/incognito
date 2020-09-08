@@ -8,6 +8,6 @@
   "license": "MIT",
   "private": true,
   "devDependencies": {
-    "standard": "^14.3.3"
+    "standard": "^14.3.4"
   }
 }
